@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I'm Learning React at <b>Scrimba </b>
+          I'm Learning React at Scrimba
           with a course from Bob Ziroll
         </a>
       </header>
